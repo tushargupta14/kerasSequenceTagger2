@@ -1,0 +1,9 @@
+*.pkl
+*.json
+*.pdf
+*.pyc
+*.save
+*.txt
+PDF/*
+test_jds/
+.ipynb_checkpoints/
